@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
     //     } else {
     //         modalMessage.textContent = `Спасибо, ${name}, за ваш ответ. Жаль, что вы не сможете быть с нами в этот день.`;
     //     }
+    console.log('')
         
     //     modal.style.display = 'flex';
     //     rsvpForm.reset();
